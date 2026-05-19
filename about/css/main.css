@@ -1158,6 +1158,9 @@ body {
   float: none;
   clear: none;
   border-radius: 15px;
+  width: 221px;
+  height: 250px;
+  object-fit: cover;
 }
 
 .text-block-4 {
